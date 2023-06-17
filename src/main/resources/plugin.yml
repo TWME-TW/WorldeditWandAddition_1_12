@@ -1,0 +1,5 @@
+name: WorldeditWandAddition_1_12
+version: '${project.version}'
+main: land.builders.worldeditwandaddition_1_12.WorldeditWandAddition_1_12
+authors: [TWME]
+api-version: 1.12
